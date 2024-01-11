@@ -1,0 +1,9 @@
+<!-- In res/values/styles.xml -->
+<resources>
+<style name="Theme.LifeGuard" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here -->
+</style>
+
+    <!-- In res/values/strings.xml -->
+<string name="app_theme">Theme.LifeGuard</string>
+</resources>
